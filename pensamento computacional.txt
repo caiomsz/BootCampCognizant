@@ -1,0 +1,60 @@
+PENSAMENTO COMPUTACIONAL
++++++++++++++++++++++++++++++++++++++++++++
+raciocinio logico
+e uma fomrma estrurado, ou raciocicnio que permite encontrar a conclusão ou determinar a resoucação de um problema
+indução : fenomeno observado, padraoes, testes, exprimento
+
+dedução: previsoes explicaçoes
+
+abdução : premissa, dignosticos, processo investigativo
+
+
+aperfeiçoeamento = a partir de uma solução determinar pontos de melhora e refinamento.
+vantagens =  maior compreensão, eficiencia, menos tempo, menos amerzenamento.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+PILARES
+
+ - DECOMPOSIÇÃO:  primeiro passo da resolução de problemas dentro do conceito de pensamento computacional
+
+"dado um problema complexo, devemos quebra-lo em problemas menores. por tanto, problemas mais faceis e gerenciaveis"
+
+estrategia para decomposição começa na analise : estudar, explorar, realizar exame detalhado.
+sintese : processo de recontrução das partes , fundir elementos de maneira coerente
+
+Ordem da execução das tarefas pode ser SEQUENCIAL OU PARALELA
+
+Sequencial : dependecia de tarefas. Execução em fila.
+Paralela : pode ser executada concomitantemente, ganha -se tempo
+
+ - RECONHECIMENTO DE PADROES
+
+
+_ PORQUE DETERMINAR PADROES?
+	GENERALIZAR , COM OBJETIVO DE OBTER RESOLUÇÃO DE PARA PROBLEMAS DIFERENTES.
+
+modelo base
+estrura invariante
+repetição
+
+APLICAÇOES : classificação de dados
+	     reconhecimento de imagem 
+	     reconhecimento de fala
+	     analise de cenas
+	     classificação de documentos
+
+- ABSTRAÇÃO
+
+ABSTRAIR	
+OBESERVAR, UM OU MAIS ELEMENTOS AVALIANDO CARACTERISTICAS E PROPRIEDADE EM SEPARADO
+ABSTRAÇÃO PROCESSO INTELECTUAL DE ISOLAMENTO DEUM OBEJETO DA REALIDADE.
+
+
+ALGORITIMO: INSTRUÇOES PASSO A PASSO. QUE PODE SER INTERPRETADO POR HUMANO E MAQUINA
+desenvolvimento do programa
+
+
+
+
+

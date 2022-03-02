@@ -1,0 +1,30 @@
+git init. inicia o git dentro diretorio
+
+git config --global user.email "caiomsz@hotmail.com" **comandos para configurar o diretorio . informacoes serao encontradas no commit
+
+git config --global user.name caiomsz  **informacoes serao encontradas no commit
+
+git status = mostra o status do arquivo
+
+git commit -m "" para commitar o arquivo com mensagem
+
+git config -l  mostra todas config do git
+
+ git remote add origin https://github.com/caiomsz/livro-receitas.git para adicionar o repositorio remoto
+
+
+untracked = git nao tem conhecimento do arquivo no diretorio
+
+tracked o git tem conhecimento do arquivo no diretorio
+
+unmodified = nao foi modificado
+modified =  arquivo q foi alterado
+starged = esta sendo preparado para o commit, apos o commit o arquivo volta para unmodified (snap shot )
+
+sha1 secure hash algorithm, e um conjunto de funcoes hash criptografadas projetadas pela nsa agencia de segurança nacional do EUA
+40 DIGITOS UNICO. PARA REPRESENTAR O ARQUIVO
+
+blob. objeto.\0, tamanho do aquivo
+Tree \0 ela armazena as blob
+
+
